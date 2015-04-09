@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pfi3_2015_Emelie_L.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quote_headline">Generate a quote!</string>
+    <string name="myButton">Next Quote</string>
+
+    <string-array name="citat">
+        <item>Dont cry because its over, smile because it happened. - Dr Seuss</item>
+        <item>Be yourself, everyone else is already taken. - Oscar Wilde</item>
+        <item>No one can make you feel inferior without your consent. - Eleanore Roosevelt</item>
+        <item>I solemnly swear that I am up to no good. - J.K Rowling</item>
+    </string-array>
+</resources>

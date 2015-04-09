@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pfi3_2015_Emelie_L.</string>
+    <string name="hello_world">Hej världen!</string>
+    <string name="myButton">Nästa Citat</string>
+    <string name="quote_headline">Generera ett citat!</string>
+
+    <string-array name="citat">
+        <item>Gråt inte på grund av att det är över, le på grund av att det har hänt. - Dr Seuss</item>
+        <item>Var dig själv, alla andra är redan upptagna. - Oscar Wilde</item>
+        <item>Ingen kan få dig att känna dig underlägsen utan ditt medgivande. - Eleanore Roosevelt</item>
+        <item>Jag svär högtidligt att jag inte håller på med något bra. - J.K Rowling</item>
+    </string-array>
+
+</resources>
